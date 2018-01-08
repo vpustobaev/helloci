@@ -1,4 +1,5 @@
 helloci
+change from Vitaly
 =======
 
 Test projects for Git training
